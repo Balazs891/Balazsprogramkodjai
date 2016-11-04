@@ -1,2 +1,2 @@
-# Balazsprogramkodjai
+# colorclock
 I stored in my program written in different codes.
